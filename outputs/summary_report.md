@@ -98,9 +98,8 @@ The chart below shows the top 15 features by average impact on model predictions
 5. **`experience_num`** - early career stage increases risk and senior reduces it.
 
 
-All four engineered features (`upskilling_intensity` #7, `stability_score` #10,
-`career_stage_num` #12) appear in the top 15, confirming they added genuine
-predictive signal beyond the raw inputs.
+All four engineered features (`upskilling_intensity` #7, `stability_score` #10, `career_stage_num` #12) appear in the top 15, confirming they added genuine predictive signal beyond the raw inputs.
+
 ---
 
 ## Recommended Actions by Risk Tier
